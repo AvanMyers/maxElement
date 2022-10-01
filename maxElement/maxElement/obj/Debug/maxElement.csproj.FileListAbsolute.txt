@@ -1,0 +1,8 @@
+C:\Users\Xiaomi\source\repos\maxElement\maxElement\bin\Debug\maxElement.exe.config
+C:\Users\Xiaomi\source\repos\maxElement\maxElement\bin\Debug\maxElement.exe
+C:\Users\Xiaomi\source\repos\maxElement\maxElement\bin\Debug\maxElement.pdb
+C:\Users\Xiaomi\source\repos\maxElement\maxElement\obj\Debug\maxElement.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\maxElement\maxElement\obj\Debug\maxElement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xiaomi\source\repos\maxElement\maxElement\obj\Debug\maxElement.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\maxElement\maxElement\obj\Debug\maxElement.exe
+C:\Users\Xiaomi\source\repos\maxElement\maxElement\obj\Debug\maxElement.pdb
